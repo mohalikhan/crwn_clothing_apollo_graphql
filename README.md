@@ -1,0 +1,1 @@
+Testing react project using Appollo client for GraphQL.
